@@ -51,25 +51,6 @@ int certificate()
     printf("\nENTER YOUR DATE :");
    	fflush(stdin);
    	scanf("%d %d %d",&n,&t,&g);
-   	
-   	printf("\n                                                   CERTIFICATE :");
-	printf("\n                                                   -------------");
-	
-	printf("\n========================================================================================================================");
-	printf("\n                                                                                                      DATE :%d/%d/%d",n,t,g);
-	printf("\n                                          SERVICE CERTIFICATE FOR GOVRNMENT EMPLOYEE");
-	printf("\n                                                   SERVICE CERTIFICATE");
-	printf("\n                                                 PALANPUR PANCHAYAT STAFF");
-	
-	printf("\n\n\n                                     THIS IS TO CERTIFY Mr/Mrs. '%s %s %s'",x,y,z);
-	printf("\n\n                                    HAS BEEN WORKING AS EMPLOYEE WITH US AS '%s'",f);
-	printf("\n\n                            WITH PERFACTION IT WAS A GREAT PLEASURE WORKING WITH HIM FOR HIS EMPLOYMENT");
-	printf("\n\n                               DURATION AND HE PROVED HIMSELF AS ONE OF THE MOST IMPORTANT");
-	printf("\n\n                               ASSETS OF THE ORGANIZATION. WE WISH HIM A GOOD LIFE AND BETTER");
-	printf("\n\n                                             OPPORTUNITIES OF EMPLOYMENT.");
-	printf("\n\n========================================================================================================================");
-	printf("\n");
-   	
 }
 	
 int main()
